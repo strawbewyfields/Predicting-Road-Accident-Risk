@@ -17,6 +17,6 @@ Build a machine learning model to predict accident_risk based on various road an
 - Our model identified road curvature (36%) and lighting conditions (25%) as the most important features for predicting accident risk.
 - Weather conditions also showed some contribution (7%).
 
-## Model Performance (Random Forest Regressor)
+## Model Performance
 - Achieved a cross-validation RMSE of 0.057.
 - Observed a small gap between training and validation RMSE (around 0.0052), suggesting the model is reasonably balanced (not over/underfitting).
